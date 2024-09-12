@@ -1,0 +1,1 @@
+//Get infomation from database.
